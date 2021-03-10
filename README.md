@@ -1,1 +1,2 @@
 # python-configure-automater
+test
